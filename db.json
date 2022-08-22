@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Imaginary Cloud - A travel mobile internet provider hired Imaginary Cloud to produce a new e-commerce website to support the launch of multiple products in multiple languages. The model was also designed for SEO."
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "Pro Gallery - Blazing fast & beautiful galleries built for the web."
+    },
+    {
+      "text": "Winston - A logger for just about everything. used with Node.",
+      "rating": 9,
+      "id": 3
+    }
+  ]
+}
