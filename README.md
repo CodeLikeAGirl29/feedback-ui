@@ -29,7 +29,7 @@ This project goes over all of the fundamentals of React including...
 
 ---
 
-![](https://res.cloudinary.com/codelikeagirl29/image/upload/v1660501238/Feedback_UI_udxkfw.png)
+![feedback ui screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1660501238/projects/Feedback_UI_udxkfw.png)
 
 ---
 
