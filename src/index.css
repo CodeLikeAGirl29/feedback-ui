@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 * {
   box-sizing: border-box;
@@ -8,8 +9,8 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
-  background-color: #202142;
+  font-family: 'Poppins', cursive;
+  background-color: #8d99ae;
   color: #fff;
   line-height: 1.6;
 }
@@ -31,7 +32,7 @@ header {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
-  font-family: 'Righteous', cursive;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .card {
@@ -90,7 +91,7 @@ header {
 
 .rating li:hover,
 .num-display {
-  background: #ff6a95;
+  background: #d90429;
   color: #fff;
 }
 
@@ -99,7 +100,7 @@ header {
 }
 
 [type='radio']:checked ~ label {
-  background: #ff6a95;
+  background: #d90429;
   color: #fff;
 }
 
@@ -159,11 +160,11 @@ input:focus {
 }
 
 .btn-primary {
-  background-color: #202142;
+  background-color: #2b2d42;
 }
 
 .btn-secondary {
-  background: #ff6a95;
+  background: #d90429;
 }
 
 .btn:hover {
@@ -203,7 +204,7 @@ input:focus {
 }
 
 .about-link a:hover {
-  color: #ff6a95;
+  color: #d90429;
 }
 
 .about h1 {
