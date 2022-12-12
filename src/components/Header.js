@@ -10,8 +10,8 @@ function Header({ text, bgColor, textColor }) {
   return (
     <header style={headerStyles}>
       <div className='container'>
-        <Link to='/' style={{ textDecoration: "none", color: "#525888" }}>
-          <h2>{text}</h2>
+        <Link to='/' style={{ textDecoration: "none", color: "#3aafa9" }}>
+          <h2><span>{text}</span></h2>
         </Link>
       </div>
     </header>
@@ -20,8 +20,8 @@ function Header({ text, bgColor, textColor }) {
 
 Header.defaultProps = {
   text: "Reviews",
-  bgColor: "#edf2f4",
-  textColor: "#525888",
+  bgColor: "#17252a",
+  textColor: "#def2f1"
 }
 
 Header.propTypes = {
